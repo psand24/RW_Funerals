@@ -10,4 +10,4 @@ Initial plan is to reverse-engineer and repurpose parties/weddings. Rough goals 
 -allow grave/coffin to act as a "party spot"
 
 
--creat ThoughtDefOf mood buff for having attended funeral. If possible, apply buff differently to mourning family and just other pawns. Balanced so as not to completely wipe out the initial debuff.
+-create ThoughtDefOf mood buff for having attended funeral. If possible, apply buff differently to mourning family and just other pawns. Balanced so as not to completely wipe out the initial debuff.
