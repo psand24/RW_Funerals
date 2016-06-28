@@ -4,8 +4,8 @@ funeral mod for rimworld
 Initial plan is to reverse-engineer and repurpose parties/weddings. Rough goals are:
 
 -set up conditions to initialize funeral
-  * host is pawn with recently deceased family member or lover
-      Trigger from relationship, or mood debuff?
+  * host is pawn with recently deceased family member or lover;
+  * Trigger from relationship, or mood debuff?
 
 -allow grave/coffin to act as a "party spot"
 
